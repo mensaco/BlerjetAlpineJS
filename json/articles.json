@@ -1,0 +1,3792 @@
+[
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 289,
+        "label": "Mish pule rriska",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": 0,
+        "articleNumber": "",
+        "price": null,
+        "id": 324,
+        "label": "Kartoffel salat",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 82,
+        "label": "Tharm buke",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": 8,
+        "articleNumber": null,
+        "price": null,
+        "id": 387,
+        "label": "Aceton, Nagellackentferner",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 39,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 348,
+        "label": "Agaven Dicksaft",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 39,
+        "shopId": 0,
+        "articleNumber": null,
+        "price": null,
+        "id": 46,
+        "label": "Ahornsirup",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": 0,
+        "articleNumber": null,
+        "price": null,
+        "id": 36,
+        "label": "Ajkë",
+        "description": "(Sahne)",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 80,
+        "label": "Ajkë e thartuar",
+        "description": "Sauerrahm",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": 0,
+        "articleNumber": null,
+        "price": null,
+        "id": 311,
+        "label": "Ajvar",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 205,
+        "label": "Ananas",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 174,
+        "label": "Apfel schorle 2l",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": 8,
+        "articleNumber": null,
+        "price": null,
+        "id": 371,
+        "label": "Aptamil",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 233,
+        "label": "Arra",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 147,
+        "label": "Avokado",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 200,
+        "label": "Baguette",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 116,
+        "label": "Bajame",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 41,
+        "label": "Balsamico",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 310,
+        "label": "Balsamico Bianco",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 130,
+        "label": "Banane",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 31,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 322,
+        "label": "Bateri AA",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 31,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 153,
+        "label": "Bateri AAA",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 365,
+        "label": "Berliner",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 12,
+        "label": "Biber djegës",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 176,
+        "label": "Biber kokrra",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 149,
+        "label": "Biber padjegës",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 145,
+        "label": "Bizele",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 34,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 398,
+        "label": "Bizele",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": 0,
+        "articleNumber": "",
+        "price": null,
+        "id": 321,
+        "label": "Blauberen",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 162,
+        "label": "Borzilok, Basilikum",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 135,
+        "label": "Bouillon",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 261,
+        "label": "Brisqe rroje",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 24,
+        "label": "Brokoli",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 178,
+        "label": "Brumë për pica",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 131,
+        "label": "Brushë dhëmbësh",
+        "description": "Zahnbürsten",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 256,
+        "label": "Buillon perimesh",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 29,
+        "label": "Bukë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 15,
+        "label": "Bukë gruri",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 388,
+        "label": "Bukë rriska",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 359,
+        "label": "Bukë të zezë",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 166,
+        "label": "Butter",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": 6,
+        "articleNumber": null,
+        "price": null,
+        "id": 226,
+        "label": "Çaj earl grey",
+        "description": "Sir Winston Tea",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 25,
+        "label": "Çaj i ftohtë pjeshke",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 353,
+        "label": "Çaj kamomileje",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 297,
+        "label": "Çaj mente bio",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 372,
+        "label": "Capri Sun",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 21,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 123,
+        "label": "Champignons",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 332,
+        "label": "Chiasamen",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": 7,
+        "articleNumber": null,
+        "price": null,
+        "id": 313,
+        "label": "Cien Shark 5 Klingen",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 30,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 27,
+        "label": "Çipsa patatesh",
+        "description": "Pommes Chips",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": 7,
+        "articleNumber": null,
+        "price": null,
+        "id": 343,
+        "label": "Coca Cola Cherry",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 30,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 20,
+        "label": "Çokollatë",
+        "description": "Schokolade",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": 1,
+        "articleNumber": null,
+        "price": null,
+        "id": 282,
+        "label": "Çokollatë \"Mersi\"",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 134,
+        "label": "Cola me shije origjinale",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 125,
+        "label": "Cola Zero",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 34,
+        "shopId": 7,
+        "articleNumber": null,
+        "price": 7.99,
+        "id": 338,
+        "label": "Copa salmoni",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 89,
+        "label": "Corn Flakes",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 16,
+        "label": "Creme fraiche",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 31,
+        "label": "Dardha",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 224,
+        "label": "Deo",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 30,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 127,
+        "label": "Dessert",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 19,
+        "label": "Deterxhent ",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 279,
+        "label": "Dezinfektues për duar",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 38,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 373,
+        "label": "Dhe lulesh",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 401,
+        "label": "Djath që piqet",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 245,
+        "label": "Djathë \"Tilsitter\" rriska",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 189,
+        "label": "Djathë feta",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 265,
+        "label": "Djathë Geramont",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 78,
+        "label": "Djathë Gouda",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 140,
+        "label": "Djathë i gërryer",
+        "description": "Reibkäse",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 362,
+        "label": "Djathë që shkrihet",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 169,
+        "label": "Djathë rikota",
+        "description": "Ricotta",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 312,
+        "label": "Djathë trekëndësh",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 267,
+        "label": "Djathë turku",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 168,
+        "label": "Domate",
+        "description": "biologjikisht është frut",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 186,
+        "label": "Domate të vogla",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 271,
+        "label": "Dorëza gome",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": 0,
+        "articleNumber": "",
+        "price": null,
+        "id": 323,
+        "label": "Doughnut",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 71,
+        "label": "Dredhëza",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 255,
+        "label": "Dressing \"Sylter Art\"",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": 11,
+        "articleNumber": null,
+        "price": null,
+        "id": 345,
+        "label": "Dybel",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": 7,
+        "articleNumber": null,
+        "price": 0.89,
+        "id": 287,
+        "label": "Eiskafé",
+        "description": "shishe 0.3 l",
+        "base64Image": null
+    },
+    {
+        "categoryId": 30,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 230,
+        "label": "Ëmbëlsira",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 61,
+        "label": "Fafarona",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 110,
+        "label": "Fasule",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 37,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 356,
+        "label": "Fenchelhonig",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 394,
+        "label": "Filé pule",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 63,
+        "label": "Fiq",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 301,
+        "label": "Fjolla Kellogs",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 283,
+        "label": "Fletore",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 128,
+        "label": "Folio alumini",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 210,
+        "label": "Folio ushqimi",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 73,
+        "label": "Fryte",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 21,
+        "label": "Garnele",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": 7,
+        "articleNumber": null,
+        "price": null,
+        "id": 341,
+        "label": "Geflügelwiener Delikatess Mini",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 295,
+        "label": "Gemüse fond",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 366,
+        "label": "Geramont leicht",
+        "description": "Djathë i butë",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": "Pije",
+        "price": null,
+        "id": 328,
+        "label": "Ginger Ale",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 215,
+        "label": "Grapefruit",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 39,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 395,
+        "label": "Gummibärchen ",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": "",
+        "price": null,
+        "id": 327,
+        "label": "Gunger Ale",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 385,
+        "label": "Gurabije",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": 7,
+        "articleNumber": "",
+        "price": null,
+        "id": 320,
+        "label": "Hähnchengeschnetzeltes",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 91,
+        "label": "Hudhër",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 107,
+        "label": "Hurme",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 37,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 354,
+        "label": "Ibuprofen",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 30,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 293,
+        "label": "Jaffa keka",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 163,
+        "label": "Jogurt",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 31,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 350,
+        "label": "Kabëll mbushësi",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 248,
+        "label": "Kaçika pule",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 34,
+        "label": "Kafe",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 193,
+        "label": "Kajmak",
+        "description": "Rahm",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 100,
+        "label": "Kajsi",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 108,
+        "label": "Kakao",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 173,
+        "label": "Kaki, Persimon",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 132,
+        "label": "Kanellë, Zimt",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": 8,
+        "articleNumber": null,
+        "price": null,
+        "id": 316,
+        "label": "Kapsula Seleni",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 92,
+        "label": "Karrota",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 34,
+        "shopId": 7,
+        "articleNumber": null,
+        "price": null,
+        "id": 298,
+        "label": "Kartoffel gratin",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 34,
+        "shopId": 1,
+        "articleNumber": null,
+        "price": null,
+        "id": 299,
+        "label": "Kartoffel sticks",
+        "description": "Shkoptha patatesh me mbushje djathi",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 351,
+        "label": "Käsebrötchen",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 17,
+        "label": "Kekë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 177,
+        "label": "Këmbë bibeje",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 21,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 305,
+        "label": "Këpudha",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 240,
+        "label": "Ketchup",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 403,
+        "label": "Kifle",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 30,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 175,
+        "label": "Kikirika",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 95,
+        "label": "Kinder Pingui",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 112,
+        "label": "Kiwi, kivi",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 274,
+        "label": "Klorix",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 30,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 268,
+        "label": "Knabercojg",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 136,
+        "label": "Knödel",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 262,
+        "label": "Kokrra misri me bizele",
+        "description": "Konservë, për pizza",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 389,
+        "label": "Kondensmilch",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 201,
+        "label": "Konfityrë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 35,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 254,
+        "label": "Konserva tune",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 35,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 363,
+        "label": "Konservë sardina",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 335,
+        "label": "Kopër (dill) taze",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 122,
+        "label": "Koriander",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": 9,
+        "articleNumber": null,
+        "price": null,
+        "id": 264,
+        "label": "Kos me dredhëza",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 64,
+        "label": "Kraftbrühe",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 269,
+        "label": "Kräuter baguettes",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 286,
+        "label": "Kräuter brühe",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 172,
+        "label": "Kräuter butter",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 21,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 326,
+        "label": "Kräuter seitling",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 54,
+        "label": "Kremë duarsh",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 53,
+        "label": "Kremë për rrezitje",
+        "description": "Sonnencreme",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 399,
+        "label": "Kreuzkümmelpulver",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 40,
+        "label": "Kripë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 181,
+        "label": "Kuleç",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 243,
+        "label": "Kuleç hamburgeri",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 239,
+        "label": "Kuleç të papjekur",
+        "description": "Brötchen",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 101,
+        "label": "Kulumri",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 26,
+        "label": "Kumbulla",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 30,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 164,
+        "label": "Kupa",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 188,
+        "label": "Lakër",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 241,
+        "label": "Lakër kine",
+        "description": "Chinakohl",
+        "base64Image": null
+    },
+    {
+        "categoryId": 35,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 392,
+        "label": "Lakra turshi",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 30,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 117,
+        "label": "Leblebia, Kicher erbsen",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 23,
+        "label": "Lëng frutash",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 159,
+        "label": "Lëng mollash",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 30,
+        "label": "Lëng portokalli",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 44,
+        "label": "Lëng rrushi të bardhë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 285,
+        "label": "Lenor",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 225,
+        "label": "Letër dhuratash",
+        "description": "Geschenkpapier",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 229,
+        "label": "Letër kuzhine",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 28,
+        "label": "Letër për pjekje",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 191,
+        "label": "Letër toaleti",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 47,
+        "label": "Limette",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 179,
+        "label": "Limon",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 121,
+        "label": "Lorbeer blätter",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 302,
+        "label": "Lugë druri",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 43,
+        "label": "Lule",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 86,
+        "label": "Lulelakër",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 34,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 397,
+        "label": "Lulelakër",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 214,
+        "label": "Majdanoz, Petersilie",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 194,
+        "label": "Majonezë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 291,
+        "label": "Makarona „Korkzieher“",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 183,
+        "label": "Mandarina",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 203,
+        "label": "Mango",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 57,
+        "label": "Margarinë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 257,
+        "label": "Marmeladë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 68,
+        "label": "Mascarpone",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 315,
+        "label": "Maskë",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 39,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 119,
+        "label": "Mastika",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 277,
+        "label": "Mbrojtje nga dielli",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 306,
+        "label": "Mbulesë tavoline",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 40,
+        "shopId": 1,
+        "articleNumber": null,
+        "price": null,
+        "id": 390,
+        "label": "Mbushje telefoni",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 187,
+        "label": "Mentë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 65,
+        "label": "Miell",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 192,
+        "label": "Miell për panim",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 333,
+        "label": "Miell për pizza",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": 7,
+        "articleNumber": null,
+        "price": null,
+        "id": 307,
+        "label": "Milch schnitte",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 143,
+        "label": "Mindila letre",
+        "description": "Taschentücher",
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 278,
+        "label": "Mindila të lagur për Isën",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 281,
+        "label": "Miracel Whip",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 228,
+        "label": "Misër",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 198,
+        "label": "Mish gjedhi rriska",
+        "description": "Rindsgeschnetzeltes",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 258,
+        "label": "Mish gullashi",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 242,
+        "label": "Mish hamburgeri",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 396,
+        "label": "Mish peshku",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 42,
+        "label": "Mish peshku panadë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 234,
+        "label": "Mish pule",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 209,
+        "label": "Mish qingji",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 69,
+        "label": "Mish salmoni",
+        "description": "Lachs",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 235,
+        "label": "Mish të grirë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 84,
+        "label": "Mish tune",
+        "description": "Thunfisch",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 75,
+        "label": "Mish viçi",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 190,
+        "label": "Mjalt",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 204,
+        "label": "Mocarella",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 133,
+        "label": "Mollë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": 7,
+        "articleNumber": null,
+        "price": 1.99,
+        "id": 339,
+        "label": "Mozzarella gerieben",
+        "description": "Djath i grirë për pizza e të ngjashme...",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 90,
+        "label": "Muffins",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 180,
+        "label": "Mustardë",
+        "description": "Senf",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 105,
+        "label": "Nektarina",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 87,
+        "label": "Niseshte",
+        "description": "Speisestärke",
+        "base64Image": null
+    },
+    {
+        "categoryId": 37,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 352,
+        "label": "Nurofen Junior mit Erdbeerengeschmack",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 284,
+        "label": "Nutella",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 67,
+        "label": "Oriz",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 59,
+        "label": "Oriz \"Basmati\"",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 270,
+        "label": "Oriz parboiled 1kg",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 222,
+        "label": "Oriz për rizoto",
+        "description": "Risottoreis",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 251,
+        "label": "Oriz për tamëloriz",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 37,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 355,
+        "label": "Paracetamol",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 146,
+        "label": "Parmezan",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 182,
+        "label": "Pasta",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 211,
+        "label": "Pastë dhëmbësh",
+        "description": "Zahnpasta",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 247,
+        "label": "Pastë dhëmbësh për Isën",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 402,
+        "label": "Pastë dhëmbësh Sensodyne",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 202,
+        "label": "Pastrues për banjo",
+        "description": "Badreiniger",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 199,
+        "label": "Pastrues për toalet",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 14,
+        "label": "Pastrues xhamash",
+        "description": "Fensterreiniger",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 236,
+        "label": "Patate",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 34,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 223,
+        "label": "Patate për fritim",
+        "description": "Pommes Frites",
+        "base64Image": null
+    },
+    {
+        "categoryId": 34,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 249,
+        "label": "Patate rriska Edeka",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 48,
+        "label": "Patëllxhan",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 60,
+        "label": "Pe dhëmbësh",
+        "description": "Zahnseide",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 216,
+        "label": "Pece letre",
+        "description": "Servietten",
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 118,
+        "label": "Peceta kozmetike",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 144,
+        "label": "Peceta të lagura",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": "",
+        "price": null,
+        "id": 331,
+        "label": "Pelena brekë",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 98,
+        "label": "Pelena nr. 6",
+        "description": "Windeln",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 288,
+        "label": "Pemë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 167,
+        "label": "Pemë të terura",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 106,
+        "label": "Penne",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 33,
+        "label": "Perime",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 34,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 124,
+        "label": "Perime të ngrira",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 81,
+        "label": "Petë për lazanje",
+        "description": "Lasagneblätter",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 184,
+        "label": "Petë për pite",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 21,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 152,
+        "label": "Pfifferlinge",
+        "description": "Pilze",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 72,
+        "label": "Pflaster",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 31,
+        "shopId": 0,
+        "articleNumber": null,
+        "price": null,
+        "id": 22,
+        "label": "Pila LR44 10",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 393,
+        "label": "Pite pa pjekur",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 111,
+        "label": "Pizza",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": 1,
+        "articleNumber": null,
+        "price": null,
+        "id": 360,
+        "label": "Pizzabrötchen z. Aufbacken",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 252,
+        "label": "Pjepër",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 79,
+        "label": "Pjeshka",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 35,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 367,
+        "label": "Pjeshka reçel",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 13,
+        "label": "Pllakë drithërash",
+        "description": "Getreideriegel",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 221,
+        "label": "Pluhur për pjekje",
+        "description": "Backpulver",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 250,
+        "label": "Pomelo",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 126,
+        "label": "Portokaj",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 120,
+        "label": "Princen bohnen",
+        "description": "Süsskartoffeln",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 330,
+        "label": "Profi Reiniger Grill u Bckofen",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 329,
+        "label": "Profi Reiniger Kunststoff ",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": 9,
+        "articleNumber": null,
+        "price": null,
+        "id": 160,
+        "label": "Pudding me çokollatë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 35,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 161,
+        "label": "Pulpë domatesh",
+        "description": "Tomatenmark",
+        "base64Image": null
+    },
+    {
+        "categoryId": 35,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 66,
+        "label": "Pulpë molle",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 197,
+        "label": "Purri",
+        "description": "Lauch",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 334,
+        "label": "Pyre patatesh Kartoffelpüree",
+        "description": "Kartoffelpüree",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": 7,
+        "articleNumber": null,
+        "price": null,
+        "id": 370,
+        "label": "Qebapa “Merguez”",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": 7,
+        "articleNumber": null,
+        "price": 9.99,
+        "id": 272,
+        "label": "Qebapa Culinea 1kg",
+        "description": "\"Cevapcici\" ",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 51,
+        "label": "Qepë pranvere",
+        "description": "Frühlingszwiebeln",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 70,
+        "label": "Qepë të bardha",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 304,
+        "label": "Qepë të kuqe",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 231,
+        "label": "Qepëza turshi",
+        "description": "Silberzwiebeln",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 115,
+        "label": "Qershi",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 386,
+        "label": "Qese mbeturinash",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 253,
+        "label": "Qese mbeturinash 50l",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 347,
+        "label": "Qirinj",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 292,
+        "label": "Quark",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 260,
+        "label": "Qull",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 114,
+        "label": "Qumësht",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 156,
+        "label": "Raven, Rhabarber",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 300,
+        "label": "Remoulade",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 58,
+        "label": "Rigon, Oregano",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 35,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 35,
+        "label": "Rote Bete",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 157,
+        "label": "Rozmarinë",
+        "description": "Rosmarin",
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 400,
+        "label": "Rremojca",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 185,
+        "label": "Rrëmojsa",
+        "description": "Zahnstocher",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 138,
+        "label": "Rrepa të kuqe",
+        "description": "Radieschen",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 39,
+        "label": "Rrush pa fara",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 263,
+        "label": "Rrush të zi",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 280,
+        "label": "Sallam",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 88,
+        "label": "Sallatë",
+        "description": "Salat",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 244,
+        "label": "Sallatë \"Eißberg\"",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 336,
+        "label": "Sallatë gjethesh (Pflücksalat)",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 155,
+        "label": "Sallatë rukola",
+        "description": "Rucola",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 337,
+        "label": "Salmon rriska (gebeizter Lachs)",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 227,
+        "label": "Sapun",
+        "description": "Seife",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 232,
+        "label": "Scheuermilch",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 374,
+        "label": "Schmand",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 55,
+        "label": "Schnitt lauch",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 196,
+        "label": "Seleri",
+        "description": "Sellerie",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 391,
+        "label": "Senfpulver",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 103,
+        "label": "Shalote",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 129,
+        "label": "Shalqi",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 195,
+        "label": "Shampon enësh",
+        "description": "Spülmittel",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 218,
+        "label": "Shampon trupi",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 275,
+        "label": "Shampon xhamash",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 85,
+        "label": "Sheqer",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 171,
+        "label": "Sheqer pluhur",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 96,
+        "label": "Sheqer vanileje",
+        "description": "Vanillezucker",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 137,
+        "label": "Sherbelë, Salbei",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": 11,
+        "articleNumber": null,
+        "price": null,
+        "id": 344,
+        "label": "Shirit hekuri 10mm x 4mm x 1m",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 56,
+        "label": "Shkoptha peshku",
+        "description": "(Fischstäbchen)",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 158,
+        "label": "Shkoptha të kriposur",
+        "description": "Salzstangen",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 206,
+        "label": "Shkrepëse",
+        "description": "Streichhölzer",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 76,
+        "label": "Shkumë rroje",
+        "description": "Rasierschaum",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 212,
+        "label": "Shpageta",
+        "description": "Spaghetti",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 52,
+        "label": "Shparg, Spargel",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 45,
+        "label": "Shpuzë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 62,
+        "label": "Shurup",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 309,
+        "label": "Slip einlagen",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 30,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 213,
+        "label": "Snacks",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 154,
+        "label": "Sosë domatesh",
+        "description": "Tomatensauce",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 208,
+        "label": "Sosë e të pjekurave",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 290,
+        "label": "Sosë Hollandaise",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 207,
+        "label": "Sosë për pasta",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 94,
+        "label": "Sosë sallate",
+        "description": "Salatsauce",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 139,
+        "label": "Sosë soje",
+        "description": "Soyasauce",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 314,
+        "label": "Speca dollma",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 266,
+        "label": "Speca të kuq",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 219,
+        "label": "Spinaq",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 303,
+        "label": "Spray për dritare",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 246,
+        "label": "Stauden-sellerie",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 220,
+        "label": "Stejk",
+        "description": "Steak",
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 317,
+        "label": "Stracciatella",
+        "description": "afër kofave të jogurtit",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 50,
+        "label": "Supë kremore",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 325,
+        "label": "Suppen gemüse",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 18,
+        "label": "Suxhuk",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 28,
+        "shopId": 1,
+        "articleNumber": null,
+        "price": null,
+        "id": 361,
+        "label": "Suxhuk qure rriska",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 141,
+        "label": "Tableta për larjen e enëve",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 31,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 346,
+        "label": "Tel saldimi çelik",
+        "description": "Makare e madhe",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 150,
+        "label": "Thasë mbeturinash",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 342,
+        "label": "Thasë mbeturinash BIO",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": 0,
+        "articleNumber": "",
+        "price": null,
+        "id": 319,
+        "label": "Thëngjill grilli",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 296,
+        "label": "Thes 120l për gjethe",
+        "description": "ndoshta bën edhe 250l",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 217,
+        "label": "Thjerrëza",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 93,
+        "label": "Toast",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 104,
+        "label": "Tonic Water",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 83,
+        "label": "Tortë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 318,
+        "label": "Trampolin ",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 237,
+        "label": "Tranguj",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 37,
+        "label": "Tranguj në uthull",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 170,
+        "label": "Trumzë, Thymian",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 113,
+        "label": "Ujë \"Volvic\"",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 22,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 97,
+        "label": "Ujë goje",
+        "description": "Mundwasser",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 142,
+        "label": "Ujë mineral",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 26,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 273,
+        "label": "Ujë mineral \"Rhodius\"",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 24,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 102,
+        "label": "Ullinjë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 151,
+        "label": "Uthull",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 38,
+        "label": "Vaj",
+        "description": "Öl",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": 7,
+        "articleNumber": null,
+        "price": 4.99,
+        "id": 259,
+        "label": "Vaj për fritim 3l",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 23,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 109,
+        "label": "Vaj ulliri",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 238,
+        "label": "Ve të freskëta",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 33,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 276,
+        "label": "Ve të ziera",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 37,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 364,
+        "label": "Voltaren",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 368,
+        "label": "Wackelpudding",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 74,
+        "label": "Waffeln",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 308,
+        "label": "Watte stäbchen",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 357,
+        "label": "WC-Stein",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 20,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 77,
+        "label": "Xhenxhefil, Ingwer",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": 0,
+        "articleNumber": null,
+        "price": null,
+        "id": 340,
+        "label": "Xhepa Pita Gyros",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 29,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 148,
+        "label": "Xhizë, Frischkäse",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 0,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 165,
+        "label": "Zbutës i rrobave",
+        "description": "Weichspüler",
+        "base64Image": null
+    },
+    {
+        "categoryId": 19,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 32,
+        "label": "Zhileta",
+        "description": "Rasierklingen",
+        "base64Image": null
+    },
+    {
+        "categoryId": 39,
+        "shopId": 13,
+        "articleNumber": null,
+        "price": null,
+        "id": 375,
+        "label": "Zitronenrolle",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "categoryId": 25,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 49,
+        "label": "Zukini",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "categoryId": 27,
+        "shopId": null,
+        "articleNumber": null,
+        "price": null,
+        "id": 358,
+        "label": "Zwieback ",
+        "description": null,
+        "base64Image": null
+    }
+]

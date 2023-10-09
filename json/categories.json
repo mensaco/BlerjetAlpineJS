@@ -1,0 +1,149 @@
+[
+    {
+        "sortIndex": 100,
+        "id": 19,
+        "label": "Banjo",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 32,
+        "id": 20,
+        "label": "Erëza",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 24,
+        "id": 21,
+        "label": "Këpudha",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 102,
+        "id": 22,
+        "label": "Kozmetikë, Shëndet",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 30,
+        "id": 23,
+        "label": "Kuzhinë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 20,
+        "id": 24,
+        "label": "Pemë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 22,
+        "id": 25,
+        "label": "Perime",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 27,
+        "id": 26,
+        "label": "Pije",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 10,
+        "id": 27,
+        "label": "Prodhime drithërash",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 18,
+        "id": 28,
+        "label": "Prodhime mishi",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 12,
+        "id": 29,
+        "label": "Prodhime qumështi",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 28,
+        "id": 30,
+        "label": "Snack",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 900,
+        "id": 31,
+        "label": "Teknikë, Elektronikë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 25,
+        "id": 33,
+        "label": "Ushqim",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 26,
+        "id": 34,
+        "label": "Ushqim i ngrirë",
+        "description": "",
+        "base64Image": null
+    },
+    {
+        "sortIndex": 27,
+        "id": 35,
+        "label": "Ushqim i konservuar",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "sortIndex": null,
+        "id": 36,
+        "label": "Orendi",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "sortIndex": null,
+        "id": 37,
+        "label": "Ilaç",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "sortIndex": null,
+        "id": 38,
+        "label": "Kopsht",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "sortIndex": null,
+        "id": 39,
+        "label": "Ëmbëlsirë",
+        "description": null,
+        "base64Image": null
+    },
+    {
+        "sortIndex": null,
+        "id": 40,
+        "label": "Të ndryshme",
+        "description": null,
+        "base64Image": null
+    }
+]

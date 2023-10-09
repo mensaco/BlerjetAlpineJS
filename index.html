@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blerjet</title>
+
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style type="text/tailwindcss">
+        @layer utilities {
+        nav li {
+            @apply cursor-pointer;
+        }
+
+        .icon{
+            @apply w-6 h-6;
+        }
+
+         /* The switch - the box around the slider */
+        .switch {
+        position: relative;
+        display: inline-block;
+        width: 54px;
+        height: 26px;
+        }
+
+        /* Hide default HTML checkbox */
+        .switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+        }
+
+        /* The slider */
+        .slider {
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #ccc;
+        -webkit-transition: .4s;
+        transition: .4s;
+        }
+
+        .slider:before {
+        position: absolute;
+        content: "";
+        height: 18px;
+        width: 18px;
+        left: 4px;
+        bottom: 4px;
+        background-color: white;
+        -webkit-transition: .4s;
+        transition: .4s;
+        }
+
+        input:checked + .slider {
+        background-color: white;
+            @apply bg-green-700;
+        }
+
+        input:focus + .slider {
+        box-shadow: 0 0 1px white;
+        }
+
+        input:checked + .slider:before {
+        -webkit-transform: translateX(26px);
+        -ms-transform: translateX(26px);
+        transform: translateX(26px);
+        }
+
+        /* Rounded sliders */
+        .slider.round {
+        border-radius: 24px;
+        }
+
+        .slider.round:before {
+        border-radius: 50%;
+        } 
+
+        
+    }
+   </style>
+
+
+</head>
+
+<body>
+
+    <div class="h-screen relative overflow-scroll p-3" x-data="App()">
+
+        <div class="h-8"></div>
+        <main>
+            <div x-show="!menuOpen" x-transition>
+                <div class="my-3">
+                    <label>Kërkim tekstual:
+                        <input type="text" x-model="search"
+                            class="px-2 py-1 border border-slate-300 rounded w-full md:w-[22rem]" />
+                    </label>
+                </div>
+                <div class="my-3">
+
+                    <label class="switch">
+                        <input type="checkbox" x-model="onlyselected" id="_onlyselected">
+                        <span class="slider round"></span>
+                    </label> <label for="_onlyselected"> &nbsp;paraqit vetëm artikujt e zgjedhur</label>
+
+                </div>
+                <template x-for="category in categoriesSorted">
+                    <div class="grid gap-y-3 mt-3 cursor-pointer" :class="category.showArticles ? 'mb-7':''"
+                        x-show="category.articles.length > 0" x-transition>
+                        <div x-text="category.label" class="px-2 py-1"
+                            :class="!categoryHasSelectedArticles(category) ? 'bg-slate-500 text-slate-200':'bg-amber-500 text-amber-200'"
+                            @click="category.showArticles = !category.showArticles"></div>
+                        <div class="grid grid-cols-3 md:grid-cols-6 xl:grid-cols-10 gap-3 text-sm"
+                            x-show="category.showArticles" x-transition>
+                            <template x-for="article in category.articles">
+                                <button :title="article.label" @click="changeState(article);"
+                                        class="p-2 h-20 w-full break-words relative" :class="stateClass(article)">
+                                        <span x-text="shortened(article.label,18)"></span>
+                                        <div x-show="article.state == 'bought'">
+                                            <svg aria-hidden="true" class="absolute bottom-1 left-1 w-5 h-5 z-0"
+                                                fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"
+                                                    stroke-linecap="round" stroke-linejoin="round"></path>
+                                            </svg>
+                                        </div>
+
+                                    </button>
+                            </template>
+                        </div>
+                    </div>
+
+                </template>
+            </div>
+        </main>
+
+        <header class="fixed right-0 top-0 left-0 p-3 z-3 bg-white">
+            <nav>
+                <ul>
+                    <li class="bg-slate-700 px-2 py-1 relative" @click="menuOpen = !menuOpen">
+                        <div class="flex justify-end text-white">
+                            <svg aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"
+                                viewBox="0 0 24 24" class="icon" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M4 6h16M4 12h16M4 18h16" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg>
+                        </div>
+                        <ul x-show="menuOpen" x-transition class="absolute left-0 right-0 top-9 grid divide-y">
+                            <li class="bg-slate-300 px-2 py-1" @click="await getdefaults()">Ngarko vlerat standarde</li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+
+    </div>
+
+
+    <!-- Alpine Plugins -->
+    <script src="/js/alpinejs.persist.min.js" defer></script>
+    <!-- Alpine Core -->
+    <script src="/js/alpinejs.min.js" defer></script>
+
+
+
+    <script src="/js/index.js"></script>
+</body>
+
+</html>
